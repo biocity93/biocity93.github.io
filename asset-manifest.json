@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c61fe05b.css",
-    "main.js": "/static/js/main.4890d364.js",
+    "main.js": "/static/js/main.15e2b493.js",
     "static/media/mental-health.png": "/static/media/mental-health.db7f95a99ceea6bf2b38.png",
     "static/media/stats-illustration.svg": "/static/media/stats-illustration.89e20edcbf2cccadc1f28b4a73a486ac.svg",
     "static/media/email-illustration.svg": "/static/media/email-illustration.84fb82b841c197337a4bc2c1e660d5a0.svg",
@@ -32,7 +32,6 @@
     "static/media/menu.svg": "/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
     "static/media/briefcase.svg": "/static/media/briefcase.21248a068c385cec74542746ea8c5e8c.svg",
     "static/media/logo.svg": "/static/media/logo.0505a4bcbff587c4dfe6b23789ef9dfb.svg",
-    "static/media/star.svg": "/static/media/star.8070f2335a60a0172b4cde8fddb5b020.svg",
     "static/media/dollar-sign.svg": "/static/media/dollar-sign.8d9a6f938731fde21207ac6851ae5fcb.svg",
     "static/media/reliable-icon.svg": "/static/media/reliable-icon.1367510a8f0a1bec76dc425d25f92f43.svg",
     "static/media/trending-up.svg": "/static/media/trending-up.ebfe9a72d68a3815181771098350599d.svg",
@@ -52,10 +51,10 @@
     "static/media/arrow-left-3-icon.svg": "/static/media/arrow-left-3-icon.d48c6bae447f4492e1860f8a253007c8.svg",
     "static/media/arrow-right-3-icon.svg": "/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "main.c61fe05b.css.map": "/static/css/main.c61fe05b.css.map",
-    "main.4890d364.js.map": "/static/js/main.4890d364.js.map"
+    "main.15e2b493.js.map": "/static/js/main.15e2b493.js.map"
   },
   "entrypoints": [
     "static/css/main.c61fe05b.css",
-    "static/js/main.4890d364.js"
+    "static/js/main.15e2b493.js"
   ]
 }
